@@ -5,6 +5,13 @@ title: ホーム
 
 [ホーム](index.md) | [知能情報メディア課程]([about.md](https://www.imi.ryukoku.ac.jp/)) | [先端理工学部](https://www.rikou.ryukoku.ac.jp/)
 
+Navigation:
+- title: Home
+- url: /index.html
+- title: About
+  url: http://xociety.co
+- title: Contact
+  url: /contact
 
 # メンバー
 
