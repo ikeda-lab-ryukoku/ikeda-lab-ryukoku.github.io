@@ -3,10 +3,8 @@ theme: jekyll-theme-Slate
 title: 池田研究室
 description: 龍谷大学先端理工学部知能情報メディア課程
 date: 2024-11-11 18:29:00
-Navigation:
-- title: Home
-- url: /index.html
-- title: About
-  url: http://xociety.co
-- title: Contact
-  url: /contact
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
