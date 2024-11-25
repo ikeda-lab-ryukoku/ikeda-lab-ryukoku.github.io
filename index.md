@@ -7,5 +7,5 @@ title: ホーム
 
 - [メンバー](members.html)
 - [活動](activities.html)
-- [業績]{}
+- [業績](publications.html)
 
