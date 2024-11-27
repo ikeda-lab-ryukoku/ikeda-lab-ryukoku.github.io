@@ -10,7 +10,9 @@ title: ホーム
 技術的に複雑な事を立場が大きく異なる人に正確に分かりやすく伝え，認識する技術を含みます．
 研究室に配属されれば，動画作成技術，プレゼン技術，プログラミングを通して，このコミュニケーション技術を鍛え抜き，同時にタスク管理や情報共有などの
 
+<div class="video-container">
 <iframe width="100%" height="360px" src="https://www.youtube.com/embed/0cD9L6xOjqo?si=lSF9mFHFEvA8efoz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 # コンテンツ
 - [メンバー](members.html)
