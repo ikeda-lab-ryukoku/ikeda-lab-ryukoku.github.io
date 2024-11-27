@@ -2,11 +2,6 @@
 layout: default
 title: ホーム
 ---
-
-<iframe width="100%" src="https://www.youtube.com/embed/0cD9L6xOjqo?si=lSF9mFHFEvA8efoz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-{% include youtube.html id="0cD9L6xOjqo" %}
-
 # 研究室の特徴
 龍谷大学先端理工学部知能情報メディア課程の池田研は，2024年4月に立ち上がった研究室です．
 「研究室は職業訓練所（研究者である教員の仕事を体験できるインターンシップ）」をスローガンに，実際に世の中に役立つ事を題材とした学習環境を提供します．
@@ -14,6 +9,8 @@ title: ホーム
 ここでいうコミュニケーション技術とは，単に仲間どうしで上手くやり取りするための技術という意味にとどまらず，
 技術的に複雑な事を立場が大きく異なる人に正確に分かりやすく伝え，認識する技術を含みます．
 研究室に配属されれば，動画作成技術，プレゼン技術，プログラミングを通して，このコミュニケーション技術を鍛え抜き，同時にタスク管理や情報共有などの
+
+<iframe width="100%" src="https://www.youtube.com/embed/0cD9L6xOjqo?si=lSF9mFHFEvA8efoz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # コンテンツ
 - [メンバー](members.html)
