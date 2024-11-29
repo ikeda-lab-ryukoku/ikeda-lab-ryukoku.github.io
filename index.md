@@ -2,25 +2,26 @@
 layout: default
 title: ホーム
 ---
-# 研究室の特徴
+## 研究室の方針
 龍谷大学先端理工学部知能情報メディア課程の池田研は，2024年4月に立ち上がった研究室です．
 「研究室は職業訓練所（研究者である教員の仕事を体験できるインターンシップ）」をスローガンに，実際に世の中に役立つ事を題材とした学習環境を提供します．
 本研究室で最も重視される技術は，コミュニケーション技術です．
 ここでいうコミュニケーション技術とは，単に仲間どうしで上手くやり取りするための技術という意味にとどまらず，
 技術的に複雑な事を立場が大きく異なる人に正確に分かりやすく伝え，認識する技術を含みます．
-研究室に配属されれば，動画作成技術，プレゼン技術，プログラミングを通して，このコミュニケーション技術を鍛え抜き，同時にタスク管理や情報共有などの
+研究室に配属されれば，動画作成技術，プレゼン技術，プログラミング，その他の研究室活動を通して，
+このコミュニケーション技術やタスク管理や情報共有などの本来必須であるにも関わらず大学教育でカバーされていない技術を鍛え抜くことができます．
 
 <div class="video-container">
 <iframe width="100%" height="360px" src="https://www.youtube.com/embed/0cD9L6xOjqo?si=lSF9mFHFEvA8efoz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-# コンテンツ
+## コンテンツ
 - [メンバー](members.html)
 - [活動](activities.html)
 - [業績](publications.html)
 - [動画](https://www.youtube.com/@ikeda-lab)
 
-# アクセス
+## アクセス
 〒520-2123 滋賀県大津市瀬田大江町横谷１−５
 龍谷大学瀬田学舎7号館 2階 情報実験室4
 
