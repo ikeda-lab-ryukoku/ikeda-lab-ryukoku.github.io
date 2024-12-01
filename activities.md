@@ -3,6 +3,7 @@ layout: default
 title: ホーム
 ---
 # 活動
+## 2024年度
 - 2024/11/29-30 [The 16th Asia-Pacific Workshop on Mixed and Augmented Reality (APMAR2024)](https://sigmr.vrsj.org/apmar2024/) Student Volunteer
   -  担当（11/29）：羽賀 大輝
   -  担当（11/30）：井上 想子，長島 佑樹，政岡 幹也，三木 翔太
