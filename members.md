@@ -1,7 +1,7 @@
 # メンバー
 
 ## 教員
-- 池田　聖 ([HP](https://sites.google.com/view/ikeda-sei/%E6%97%A5%E6%9C%AC%E8%AA%9E))
+- 池田　聖 （[HP](https://sites.google.com/view/ikeda-sei/%E6%97%A5%E6%9C%AC%E8%AA%9E)）
  
 ## 修士課程 (2名)
 - 田中	聖也 （[HP](https://sparkling-empanada-186034.netlify.app/)）
