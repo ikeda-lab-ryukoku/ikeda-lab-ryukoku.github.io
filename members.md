@@ -19,7 +19,7 @@
 - 長島	佑樹
 - 藤井	開
 - 井上	想子
-- 冨田	拓希
+- 冨田	拓希　（[HP](https://y220193.wixsite.com/hirokitomita)）
 - 政岡	幹也
 - 横井川	陸人 （[HP](https://y220204.wixsite.com/my-site-9)）
 - 山下	颯太 （[HP](https://y220245.wixsite.com/sotasite)）
