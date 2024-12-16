@@ -20,7 +20,7 @@
 - 藤井	開
 - 井上	想子
 - 冨田	拓希 （[HP](https://y220193.wixsite.com/hirokitomita)）
-- 政岡	幹也
+- 政岡	幹也 （[HP](https://masaoka1970.wixsite.com/my-site-11)）
 - 横井川	陸人 （[HP](https://y220204.wixsite.com/my-site-9)）
 - 山下	颯太 （[HP](https://y220245.wixsite.com/sotasite)）
 - 三木	翔太 （[HP](https://y2101834.wixsite.com/shota-miki-1)）
