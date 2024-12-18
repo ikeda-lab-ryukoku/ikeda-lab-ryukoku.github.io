@@ -17,7 +17,7 @@
 - 津波	純一
 - 原田	真弥
 - 長島	佑樹
-- 藤井	開
+- 藤井	開 （[HP](https://y220193.wixsite.com/hirokitomita)）
 - 井上	想子
 - 冨田	拓希 （[HP](https://y220193.wixsite.com/hirokitomita)）
 - 政岡	幹也 （[HP](https://masaoka1970.wixsite.com/my-site-11)）
