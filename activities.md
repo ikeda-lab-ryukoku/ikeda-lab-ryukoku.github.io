@@ -2,6 +2,10 @@
 layout: default
 title: ホーム
 ---
+# 受賞
+- 古川絢奈，井上想子，谷口ひとみ: 宇治やんたんライナーコネクトの利用促進計画, 先端理工学部長賞，龍谷大学先端理工学部，2024/11/06
+- 古川絢奈，井上想子，谷口ひとみ: 宇治やんたんライナーコネクトの利用促進計画, ものづくり企業賞（角田鉄工株式会社賞），産学連携コンソーシアム, 2024/11/06.
+
 # 活動
 ## 2024年度
 - 2024/11/29-30 [The 16th Asia-Pacific Workshop on Mixed and Augmented Reality (APMAR2024)](https://sigmr.vrsj.org/apmar2024/) Student Volunteer
