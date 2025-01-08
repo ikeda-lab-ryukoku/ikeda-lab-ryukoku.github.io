@@ -5,6 +5,9 @@ title: ホーム
 
 # 活動
 ## 2024年度
+- 2025/1/8 第36回 龍谷大学 新春技術講演会
+  - 発表形態：ポスター発表
+  - 内容：羽賀大輝，池田聖：HMD内蔵視線計測器の較正と複数視機能検査の同時実施法
 - 2024/11/29-30 [The 16th Asia-Pacific Workshop on Mixed and Augmented Reality (APMAR2024)](https://sigmr.vrsj.org/apmar2024/) Student Volunteer
   -  担当（11/29）：羽賀 大輝
   -  担当（11/30）：井上 想子，長島 佑樹，政岡 幹也，三木 翔太
