@@ -16,7 +16,7 @@
 ## 学部3年生 (10名)
 - 津波	純一 （[hp](https://Junichi1107.wixsite.com/portfolio)）
 - 原田	真弥 （[HP](https://haradashinya.jimdosite.com/)）
-- 長島	佑樹
+- 長島	佑樹 （[HP](https://y220157.wixsite.com/yuuki)）
 - 藤井	開 （[HP](https://y220180.wixsite.com/kaisite)）
 - 井上	想子 （[HP](https://soko676.wixsite.com/mysite)）
 - 冨田	拓希 （[HP](https://y220193.wixsite.com/hirokitomita)）
