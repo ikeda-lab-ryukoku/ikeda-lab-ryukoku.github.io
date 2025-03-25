@@ -19,6 +19,7 @@ title: ホーム
 - [メンバー](members.html)
 - [活動](activities.html)
 - [業績](publications.html)
+- [受賞](awards.html)
 - [動画](https://www.youtube.com/@ikeda-lab)
 
 ## アクセス
