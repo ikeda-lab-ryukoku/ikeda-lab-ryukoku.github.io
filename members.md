@@ -3,9 +3,8 @@
 ## 教員
 - 池田　聖 （[HP](https://sites.google.com/view/ikeda-sei/%E6%97%A5%E6%9C%AC%E8%AA%9E)）
  
-## 修士課程 (2名)
+## 修士課程 (1名)
 - 羽賀	大輝 （[HP](https://torayaki1020.wixsite.com/taiki-site)）
-
 
 ## 学部3年生 (10名)
 - 津波	純一 （[hp](https://Junichi1107.wixsite.com/portfolio)）
