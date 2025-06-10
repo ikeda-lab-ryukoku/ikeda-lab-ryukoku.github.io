@@ -6,7 +6,7 @@
 ## 修士課程 (1名)
 - 羽賀	大輝 （[HP](https://torayaki1020.wixsite.com/taiki-site)）
 
-## 学部3年生 (10名)
+## 学部4年生 (10名)
 - 津波	純一 （[hp](https://Junichi1107.wixsite.com/portfolio)）
 - 原田	真弥 （[HP](https://haradashinya.jimdosite.com/)）
 - 長島	佑樹 （[HP](https://y220157.wixsite.com/yuuki)）
