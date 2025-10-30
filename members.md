@@ -23,7 +23,7 @@
 
 ## 学部3年生 (8名)
 - 本庄	佑多（[HP](https://yunoritama1ta.wixsite.com/my-site-5)）
-- 坂本	晴紀（[HP)(https://y230154.wixsite.com/sakamoto)）
+- 坂本	晴紀（[HP](https://y230154.wixsite.com/sakamoto)）
 - 作本	龍宝
 - 中澤	尊
 - 畑中	健志朗
