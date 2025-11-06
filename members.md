@@ -26,7 +26,7 @@
 - 坂本	晴紀（[HP](https://y230154.wixsite.com/sakamoto)）
 - 作本	龍宝
 - 中澤	尊
-- 畑中	健志朗
+- 畑中	健志朗 ([HP](https://y230221.wixsite.com/my-site)
 - 喜田	悠友
 - 永井	海翔
 - 植村	颯太
