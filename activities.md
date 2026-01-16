@@ -1,4 +1,4 @@
-<img width="741" height="160" alt="image" src="https://github.com/user-attachments/assets/b6b3493b-37e6-4814-9f7d-b3893b873f8c" />---
+---
 layout: default
 title: ホーム
 ---
