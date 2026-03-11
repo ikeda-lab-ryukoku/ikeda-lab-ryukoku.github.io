@@ -22,3 +22,7 @@
 - 島田 慎騎: ARマジックレンズのスマートフォンにおける実装課題, 特別研究報告書, 2025.
 - 寺田 倫太郎: 失明者のための視線探索インタフェース ～健常者による事前検証～, 特別研究報告書, 2025.
 - 日吉 陽輝: 三次元固視検出に基づく視線自動較正法の追試実験, 特別研究報告書, 2025.
+
+## メディア
+- 池田 聖: ReTaction Radio 第62回放送, "「眼の視えない人によるスポーツクライミング」。ここまで出来るARの可能性", 2026/03/10. [[Spotify](https://open.spotify.com/episode/3lrmJJztnfYmIQl55B9ZXU)]
+- 池田 聖: ReTaction Radio 第61回放送, "AR＝拡張現実の世界。人間の眼が持つ驚きの機能を利用", 2026/03/03. [[Spotify](https://open.spotify.com/episode/5c3kcbLVq46coAm9OLNnzL)]
