@@ -24,5 +24,6 @@
 - 日吉 陽輝: 三次元固視検出に基づく視線自動較正法の追試実験, 特別研究報告書, 2025.
 
 ## メディア
-- 池田 聖: ReTaction Radio 第62回放送, "「眼の視えない人によるスポーツクライミング」。ここまで出来るARの可能性", 2026/03/10. [[Spotify](https://open.spotify.com/episode/3lrmJJztnfYmIQl55B9ZXU)]
-- 池田 聖: ReTaction Radio 第61回放送, "AR＝拡張現実の世界。人間の眼が持つ驚きの機能を利用", 2026/03/03. [[Spotify](https://open.spotify.com/episode/5c3kcbLVq46coAm9OLNnzL)]
+- 原田 亮, 池田 聖, 石原 凌河: "【龍谷大学】情報×防災で変わる未来", 読売新聞オンライン（広告）, 2026/03/11. [[Web](https://www.yomiuri.co.jp/adv/article/ryukoku/index.php)]
+- 池田 聖: "「眼の視えない人によるスポーツクライミング」。ここまで出来るARの可能性", ReTACTION Radio 第62回放送, 2026/03/10. [[Spotify](https://open.spotify.com/episode/3lrmJJztnfYmIQl55B9ZXU)]
+- 池田 聖: "AR＝拡張現実の世界。人間の眼が持つ驚きの機能を利用", ReTACTION Radio 第61回放送, 2026/03/03. [[Spotify](https://open.spotify.com/episode/5c3kcbLVq46coAm9OLNnzL)]
