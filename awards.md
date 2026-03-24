@@ -1,4 +1,8 @@
 # 受賞
+## 2025年度
+- Mikiya Masaoka, Rintaro Terada and Sei Ikeda: Best Demo Honorable Mention, "AR sight guide system for paraclimbing: An indoor experiment of spatial localization using active exploration", Augmented Humans International Conference, 2026/03/19.
+
+
 ## 2024年度
 - 田中聖也: 優秀プレゼンテーション賞, 龍谷大学先端理工学研究科/龍谷大学先端理工学部同窓会，2025/3/19.
 - 寺田倫太郎: 優秀プレゼンテーション賞, 龍谷大学先端理工学部/龍谷大学先端理工学部同窓会，2025/3/19.
