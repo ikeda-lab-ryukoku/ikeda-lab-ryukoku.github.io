@@ -1,4 +1,4 @@
-2026年3月19日，沖縄先端科学技術大学院大学（OIST）で開催された国際会議 Augmented Humans International Conference 2026（AHs 2026） において，政岡幹也さん，寺田倫太郎さん，池田聖 のグループが，Best Demo Honorable Mention（最優秀デモ特別賞） を受賞しました。
+2026年3月19日，沖縄先端科学技術大学院大学（OIST）で開催された国際会議 Augmented Humans International Conference 2026（AHs 2026） において，政岡幹也さん（当時B4、現M1），寺田倫太郎さん（B4卒業生），池田聖のグループが，Best Demo Honorable Mention（最優秀デモ特別賞） を受賞しました。
 
 AHsは，人間の身体機能や知覚，行動を拡張する技術を扱うACM公認の国際会議であり，今年で17回目の開催となります。今回のデモセッションでは34件の展示発表が行われ，その中から Best Demo Award が1件，Best Demo Honorable Mention が2件選出されました。本グループの発表はそのうちの1つとして選ばれ，デモ発表全体でも上位に入る高い評価を得ました。
 
