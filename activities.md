@@ -11,7 +11,7 @@ title: ホーム
   - 内容：デモ＆ポスター発表
   - 題目：AR Sight Guide System for paraclimbing: An indoor experiment for spatial localization using active exploration
   - 掲載
-    - [国際会議AHs 2026で本学グループがBest Demo Honorable Mentionを受賞](/events/20260319_AugmentedHumans2026_Awards.html)
+    - [国際会議AHs 2026で本学グループがBest Demo Honorable Mentionを受賞](/events/20260319_AugmentedHumans2026_Award.html)
 
 ## パラクライミング支援を目指すARサイトガイド・システムが国際的に高評価
 - 2026/1/14 第37回 新春技術講演会
