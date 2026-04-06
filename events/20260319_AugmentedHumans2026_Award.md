@@ -1,7 +1,10 @@
 ---
 title: 国際会議AHs 2026で本学グループがBest Demo Honorable Mentionを受賞
-パラクライミング支援を目指すARサイトガイド・システムが国際的に高評価
 ---
+
+# 国際会議AHs 2026で本学グループがBest Demo Honorable Mentionを受賞
+
+## パラクライミング支援を目指すARサイトガイド・システムが国際的に高評価
 
 2026年3月19日，沖縄先端科学技術大学院大学（OIST）で開催された国際会議 Augmented Humans International Conference 2026（AHs 2026） において，政岡幹也さん（当時B4、現M1），寺田倫太郎さん（B4卒業生），池田聖のグループが，Best Demo Honorable Mention（最優秀デモ特別賞） を受賞しました。
 
