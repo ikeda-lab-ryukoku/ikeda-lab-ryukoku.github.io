@@ -22,6 +22,10 @@ title: ホーム
   - 題目：AR Sight Guide System for paraclimbing: An indoor experiment for spatial localization using active exploration
   - 掲載
     - [国際会議AHs 2026で本学グループがBest Demo Honorable Mentionを受賞](/events/20260319_AugmentedHumans2026_Award.html)
+- 2026/1/17 ReTACTION Radio収録
+  - 場所：深草キャンパス 和顔館4階会議室
+  - 参加：大抜卓人（DJ），池田 聖（出演）
+  - 内容：研究，講義，生い立ちなどを含む4回分の収録を行った．
 - 2026/1/14 第37回 新春技術講演会
   - 場所：瀬田キャンパス8号館
   - 参加：羽賀 大輝，井上　想子, 津波 潤一, 政岡 幹也, 坂本 晴紀，池田 聖
