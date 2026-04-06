@@ -5,6 +5,15 @@ title: ホーム
 
 # 活動
 ## 2025年度
+- 2026/3/16-19 [Augmented Humans International Conference 2026](https://augmented-humans.org/)
+  - 場所：沖縄先端科学技術大学院大学
+  - 参加：政岡 幹也, 井上　想子, 浦宗 龍生, 池田 聖
+  - 内容：デモ＆ポスター発表
+  - 題目：AR Sight Guide System for paraclimbing: An indoor experiment for spatial localization using active exploration
+  - 掲載
+    - [国際会議AHs 2026で本学グループがBest Demo Honorable Mentionを受賞](/events/20260319_AugmentedHumans2026_Awards.html)
+
+## パラクライミング支援を目指すARサイトガイド・システムが国際的に高評価
 - 2026/1/14 第37回 新春技術講演会
   - 場所：瀬田キャンパス8号館
   - 参加：羽賀 大輝，井上　想子, 津波 潤一, 政岡 幹也, 坂本 晴紀，池田 聖
