@@ -21,7 +21,7 @@ title: ホーム
   - 内容：デモ＆ポスター発表
   - 題目：AR Sight Guide System for paraclimbing: An indoor experiment for spatial localization using active exploration
   - 掲載
-    - [国際会議AHs 2026で本学グループがBest Demo Honorable Mentionを受賞](/events/20260319_AugmentedHumans2026_Award.html)
+    - [国際会議AHs 2026で本学グループがBest Demo Honorable Mentionを受賞](https://ikeda-lab-ryukoku.github.io/events/20260319_AugmentedHumans2026_Award.html)
 - 2026/1/17 ReTACTION Radio収録
   - 場所：深草キャンパス 和顔館4階会議室
   - 参加：大抜卓人（DJ），池田 聖（出演）
