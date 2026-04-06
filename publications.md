@@ -1,6 +1,7 @@
 # 研究業績
 ## 国際会議
-- Soko Inoue, Ryusei Uramune, Sei Ikeda: Translational velocity in a fixation-based automatic gaze calibration method, The 17th Asia-Pacific Workshop on Mixed and Augmented Reality (APMAR 2025), 2025/9/27.
+- Mikiya Masaoka, Rintaro Terada, and Sei Ikeda: "AR sight guide system for paraclimbing: An indoor experiment of spatial localization using active exploration", Proc. Augmented Humans International Conference, 2026/3/16.
+- Soko Inoue, Ryusei Uramune, and Sei Ikeda: Translational velocity in a fixation-based automatic gaze calibration method, The 17th Asia-Pacific Workshop on Mixed and Augmented Reality (APMAR 2025), 2025/9/27.
 - Taiki Haga, Sei Ikeda: Integration of multiple visual assesements on HMDs ― Calibration, visual acuity test, and strabismus detection, The 17th Asia-Pacific Workshop on Mixed and Augmented Reality (APMAR 2025), 2025/9/27.
 - Shota Miki, Sei Ikeda: The challenges and potentials of AR climbing routes mapping by remoting, The 17th Asia-Pacific Workshop on Mixed and Augmented Reality (APMAR 2025), 2025/9/26.
 - Mikiya Masaoka, Sei Ikeda: Climbing sight guide system using spatial audio ― An experiment by sighted people on indoor wall, The 17th Asia-Pacific Workshop on Mixed and Augmented Reality (APMAR 2025), 2025/9/26.
@@ -24,6 +25,8 @@
 - 日吉 陽輝: 三次元固視検出に基づく視線自動較正法の追試実験, 特別研究報告書, 2025.
 
 ## メディア
+- 池田 聖: "「好き」をとことん追求。”科学少年”が最先端ARの研究者になるまで”", ReTACTION Radio 第64回放送, 2026/03/24. [[Spotify](https://open.spotify.com/episode/2gjRtjO21lLLYwpLD5ms2o)]
+- 池田 聖: "専門分野はゴリゴリの理系。しかし講義では数式をなるべく使わない理由", ReTACTION Radio 第63回放送, 2026/03/17. [[Spotify](https://open.spotify.com/episode/1XA4Ji0p1rD9F61K81llpd)]
 - 原田 亮, 池田 聖, 石原 凌河: "【龍谷大学】情報×防災で変わる未来", 読売新聞オンライン（広告）, 2026/03/11. [[Web](https://www.yomiuri.co.jp/adv/article/ryukoku/index.php)]
 - 池田 聖: "「眼の視えない人によるスポーツクライミング」。ここまで出来るARの可能性", ReTACTION Radio 第62回放送, 2026/03/10. [[Spotify](https://open.spotify.com/episode/3lrmJJztnfYmIQl55B9ZXU)]
 - 池田 聖: "AR＝拡張現実の世界。人間の眼が持つ驚きの機能を利用", ReTACTION Radio 第61回放送, 2026/03/03. [[Spotify](https://open.spotify.com/episode/5c3kcbLVq46coAm9OLNnzL)]
