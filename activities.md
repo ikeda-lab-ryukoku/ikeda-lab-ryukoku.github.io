@@ -4,7 +4,17 @@ title: ホーム
 ---
 
 # 活動
+## 2026年度
+- 2026/4/3 新入生クラス会＆BYOD講習会
+  - 場所：瀬田キャンパス7号館情報実験室4，コラボレーション演習室
+  - 参加：井上　想子（アシスタントスタッフ），長島 佑樹, 本庄 佑多，池田 聖
+  - 内容：新入生に対して懇親イベントとBYOD講習会を行った
+
 ## 2025年度
+- 2026/3/22 春のオープンキャンパス
+  - 場所：瀬田キャンパス8号館
+  - 参加：政岡 幹也, 植村 颯太, 本庄 佑多
+  - 内容：新学部受験生向けにデモとポスターによりAHs2026の展示内容を日本語で説明した．
 - 2026/3/16-19 [Augmented Humans International Conference 2026](https://augmented-humans.org/)
   - 場所：沖縄先端科学技術大学院大学
   - 参加：政岡 幹也, 井上　想子, 浦宗 龍生, 池田 聖
@@ -12,8 +22,6 @@ title: ホーム
   - 題目：AR Sight Guide System for paraclimbing: An indoor experiment for spatial localization using active exploration
   - 掲載
     - [国際会議AHs 2026で本学グループがBest Demo Honorable Mentionを受賞](/events/20260319_AugmentedHumans2026_Award.html)
-
-## パラクライミング支援を目指すARサイトガイド・システムが国際的に高評価
 - 2026/1/14 第37回 新春技術講演会
   - 場所：瀬田キャンパス8号館
   - 参加：羽賀 大輝，井上　想子, 津波 潤一, 政岡 幹也, 坂本 晴紀，池田 聖
