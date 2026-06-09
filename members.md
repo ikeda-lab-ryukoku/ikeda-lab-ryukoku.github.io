@@ -6,7 +6,7 @@
 ## 博士課程（1名）
 - 浦宗	龍生 ([HP](https://ryuryu0226.github.io/))
 
-## 修士課程 (1名)
+## 修士課程 (2名)
 - 井上	想子 （[HP](https://soko676.wixsite.com/mysite)）
 - 政岡	幹也 （[HP](https://masaoka1970.wixsite.com/my-site-11)）
 
