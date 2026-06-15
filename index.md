@@ -11,7 +11,7 @@ title: ホーム
 研究室に配属されれば，動画作成技術，プレゼン技術，プログラミング，その他の研究室活動を通して，
 このコミュニケーション技術やタスク管理や情報共有などの本来必須であるにも関わらず大学教育でカバーされていない技術を鍛え抜くことができます．
 
-![2026年度研究室公開](photo/20260615_openlab.jpg)
+<img src="photo/20260615_openlab.jpg" width="100%">
 
 <div class="video-container">
 <iframe width="100%" height="360px" src="https://www.youtube.com/embed/0cD9L6xOjqo?si=lSF9mFHFEvA8efoz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
