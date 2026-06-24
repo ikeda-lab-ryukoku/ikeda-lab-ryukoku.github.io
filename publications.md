@@ -1,6 +1,6 @@
 # 研究業績
 ## 国際会議
-- Mikiya Masaoka, Rintaro Terada, and Sei Ikeda: "AR sight guide system for paraclimbing: An indoor experiment of spatial localization using active exploration", Proc. Augmented Humans International Conference, 2026/3/16. [pdf](https://dl.acm.org/doi/10.1145/3795011.3797424)
+- Mikiya Masaoka, Rintaro Terada, and Sei Ikeda: "AR sight guide system for paraclimbing: An indoor experiment of spatial localization using active exploration", Proc. Augmented Humans International Conference, 2026/3/16. [[pdf](https://dl.acm.org/doi/10.1145/3795011.3797424)]
 - Soko Inoue, Ryusei Uramune, and Sei Ikeda: Translational velocity in a fixation-based automatic gaze calibration method, The 17th Asia-Pacific Workshop on Mixed and Augmented Reality (APMAR 2025), 2025/9/27.
 - Taiki Haga, Sei Ikeda: Integration of multiple visual assesements on HMDs ― Calibration, visual acuity test, and strabismus detection, The 17th Asia-Pacific Workshop on Mixed and Augmented Reality (APMAR 2025), 2025/9/27.
 - Shota Miki, Sei Ikeda: The challenges and potentials of AR climbing routes mapping by remoting, The 17th Asia-Pacific Workshop on Mixed and Augmented Reality (APMAR 2025), 2025/9/26.
